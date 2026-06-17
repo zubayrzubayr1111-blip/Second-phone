@@ -1,0 +1,6 @@
+{
+  "name": "One UI Launcher",
+  "description": "A pixel-perfect Samsung One UI Camera UI with interactive preview features, capturing, camera modes, lens toggle, grid options, and realistic preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
